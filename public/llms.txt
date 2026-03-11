@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את מבחר התבלינים הטריים והאיכותיים ביותר בישראל. תבלינים מובחרים לשפים מקצועיים ואוהבי בישול. הזמינו עכשיו ותעלו את המטבח שלכם לרמה הבאה!
+
+### אודות
+https://example.com/about
+מאחורי כל תבלין עומדת תשוקה לאיכות ללא פשרות. הכירו את המסע שלנו להביא לכם את התבלינים הטובים ביותר מכל רחבי העולם ישירות למטבח שלכם.
+
+### מדריך תבלינים (שאלות נפוצות)
+https://example.com/guide
+איך לשמור על תבלינים טריים? איזה תבלין מתאים לכל מנה? כל התשובות במדריך המקיף שלנו. טיפים מקצועיים לשפים ואוהבי בישול שרוצים להפוך כל ארוחה למופת קולינרי.
+
+### צור קשר
+https://example.com/contact
+צריכים ייעוץ מקצועי לבחירת תבלינים? מעוניינים בהזמנה כמותית למסעדה? צרו איתנו קשר והצוות המומחה שלנו יעזור לכם למצוא בדיוק את מה שאתם מחפשים.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ספייסי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ספייסי
+
+### Category
+https://example.com/category/:slug
+מוצרים - ספייסי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
